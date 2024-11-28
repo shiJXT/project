@@ -1,0 +1,24 @@
+src/
+├── api/
+│   └── user.js
+├── assets/
+│   └── main.css
+├── components/
+├── layouts/
+│   └── MainLayout.vue
+├── router/
+│   └── index.js
+├── store/
+│   └── user.js
+├── utils/
+│   └── request.js
+├── views/
+│   ├── Login.vue
+│   ├── Dashboard.vue
+│   ├── basic/
+│   ├── inventory/
+│   ├── inbound/
+│   ├── outbound/
+│   └── system/
+├── App.vue
+└── main.js 

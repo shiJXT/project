@@ -1,0 +1,27 @@
+@import './base.css';
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  height: 100vh;
+}
+
+.el-header {
+  background-color: #fff;
+  border-bottom: 1px solid #dcdfe6;
+  padding: 0 20px;
+}
+
+.el-aside {
+  background-color: #304156;
+  color: #fff;
+}
+
+.el-main {
+  background-color: #f0f2f5;
+  padding: 20px;
+}
